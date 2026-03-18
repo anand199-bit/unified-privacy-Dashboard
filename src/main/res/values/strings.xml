@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UPDA</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="permissions">Permissions</string>
+    <string name="risk_analysis">Risk Analysis</string>
+    <string name="encrypted_logs">Encrypted Logs</string>
+    <string name="parental_control">Parental Control</string>
+    <string name="compliance">Compliance</string>
+</resources>
